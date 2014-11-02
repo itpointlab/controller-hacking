@@ -1,2 +1,2 @@
-controller-hacking
+Controller Hacking
 ==================
